@@ -8,3 +8,5 @@ minio/mc:RELEASE.2023-04-12T02-21-51Z
 redis:7.2
 # mysql
 mysql:8.0.36
+# nginx
+nginx:1.27.3
