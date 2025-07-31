@@ -4,3 +4,7 @@ openjdk:8-jre
 minio/minio:RELEASE.2023-04-13T03-08-07Z
 # minio mc
 minio/mc:RELEASE.2023-04-12T02-21-51Z
+# redis
+redis:7.2
+# mysql
+mysql:8.0.36
