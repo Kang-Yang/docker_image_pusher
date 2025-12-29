@@ -1,5 +1,5 @@
 # jdk
-openjdk:8-jre
+# openjdk:8-jre
 # minio
 minio/minio:RELEASE.2023-04-13T03-08-07Z
 # minio mc
