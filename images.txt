@@ -10,3 +10,5 @@ redis:7.2
 mysql:8.0.36
 # nginx
 nginx:1.27.3
+# node
+node:18-alpine
