@@ -1,14 +1,17 @@
 # jdk
 # openjdk:8-jre
 # minio
-minio/minio:RELEASE.2023-04-13T03-08-07Z
+# minio/minio:RELEASE.2023-04-13T03-08-07Z
 # minio mc
-minio/mc:RELEASE.2023-04-12T02-21-51Z
+# minio/mc:RELEASE.2023-04-12T02-21-51Z
 # redis
-redis:7.2
+# redis:7.2
 # mysql
-mysql:8.0.36
+# mysql:8.0.36
 # nginx
-nginx:1.27.3
+# nginx:1.27.3
 # node
-node:18-alpine
+# node:18-alpine
+
+# tomcat7-jdk8
+tomcat:jre25-temurin-noble
