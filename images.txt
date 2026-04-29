@@ -15,4 +15,8 @@
 
 # tomcat7-jdk8
 # tomcat:jre25-temurin-noble
-maluuba/tomcat7-java8:latest
+# maluuba/tomcat7-java8:latest
+
+node:18-alpine
+
+nginx:alpine
