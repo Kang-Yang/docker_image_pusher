@@ -18,5 +18,6 @@
 # maluuba/tomcat7-java8:latest
 
 #node:18-alpine
-node:20
+#node:20
 #nginx:alpine
+nginx:latest
