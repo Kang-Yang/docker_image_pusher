@@ -20,4 +20,6 @@
 #node:18-alpine
 #node:20
 #nginx:alpine
-nginx:latest
+#nginx:latest
+
+python:3.12-slim
